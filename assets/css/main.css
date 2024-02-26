@@ -344,7 +344,7 @@ a{
 }
 
 .cv-form-row-title{
-    background-color: var(--clr-dark);
+    background-color:dodgerblue;
     padding: 0.8rem 1.6rem;
     margin-bottom: 2rem;
 }
@@ -376,7 +376,7 @@ textarea{
     display: block;
     font-weight: 600;
     font-size: 14px;
-    color: var(--clr-dark);
+    color: sandybrown;
     margin-bottom: 0.5rem;
 }
 .form-control{
